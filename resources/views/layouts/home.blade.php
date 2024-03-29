@@ -1,0 +1,10 @@
+@extends('main.main')
+@section('header')
+@include('main.header')
+@endsection
+@section('content')
+home
+@endsection
+@section('footer')
+@include('main.footer')
+@endsection
