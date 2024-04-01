@@ -1,8 +1,8 @@
-<div class="container-fluid sticky-top">
+<div class="container-fluid sticky-top" style="background-color:#389ebf">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-dark p-0">
                 <a href="index.html" class="navbar-brand">
-                    <h1 class="text-white">AI<span class="text-dark">.</span>Tech</h1>
+                    <h1 class="text-white">UN<span class="text-dark">.</span>Ethiopia</h1>
                 </a>
                 <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
@@ -40,13 +40,13 @@
         <div class="container pt-5">
             <div class="row g-5 pt-5">
                 <div class="col-lg-6 align-self-center text-center text-lg-start mb-lg-5">
-                    <div class="btn btn-sm border rounded-pill text-white px-3 mb-3 animated slideInRight">AI.Tech</div>
-                    <h1 class="display-4 text-white mb-4 animated slideInRight">Artificial Intelligence for Your Business</h1>
+                    <h1 class="display-4 text-white mb-4 animated slideInRight text-center" style="margin-top:100px">Artificial Intelligence for Your Business</h1>
                     <p class="text-white mb-4 animated slideInRight">Tempor rebum no at dolore lorem clita rebum rebum ipsum
                         rebum stet dolor sed justo kasd. Ut dolor sed magna dolor sea diam. Sit diam sit</p>
-                    <a href="" class="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInRight">Read More</a>
-                    <a href="" class="btn btn-outline-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact Us</a>
+                    
+                    <a href="" class="btn btn-outline-light py-sm-3 px-sm-5 rounded-pill animated slideInRight ">Contact Us</a>
                 </div>
+               
                 <div class="col-lg-6 align-self-end text-center text-lg-end">
                     <!-- <img class="img-fluid" src="img/hero-img.png" alt=""> -->
 
@@ -55,10 +55,10 @@
                     <div id="carouselId" class="carousel slide position-relative" data-bs-ride="carousel">
                             <div class="carousel-inner" role="listbox">
                                 <div class="carousel-item active rounded">
-                                    <img src="img/hero-img-1.png" class="img-fluid w-100 h-100 bg-secondary rounded" alt="First slide">
+                                    <img src="img/scroll1_header.jpg" class="img-fluid w-100 h-100 bg-secondary rounded" alt="First slide">
                                 </div>
                                 <div class="carousel-item rounded">
-                                    <img src="img/hero-img-2.jpg" class="img-fluid w-100 h-100 rounded" alt="Second slide">
+                                    <img src="img/scroll3_header.jpg" class="img-fluid w-100 h-100 rounded" alt="Second slide">
                                 </div>
                             </div>
                             <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
@@ -106,7 +106,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
-                        <img class="img-fluid" src="img/about-img.jpg">
+                        <img class="img-fluid" src="img/un_female_soldier.jpg">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -139,6 +139,51 @@
         </div>
     </div>
     <!-- About End -->
+ <!-- Case Start -->
+ <div class="container-fluid bg-light py-5">
+        <div class="container py-5">
+            <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s" style="max-width: 500px;">
+                <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">Case Study</div>
+                <h1 class="mb-4">Explore Our Recent AI Case Studies</h1>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
+                    <div class="case-item position-relative overflow-hidden rounded mb-2">
+                        <img class="img-fluid" src="img/project-1.jpg" alt="">
+                        <a class="case-overlay text-decoration-none" href="">
+                            <small>Robotic Automation</small>
+                            <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore amet labore clita
+                            </h5>
+                            <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
+                    <div class="case-item position-relative overflow-hidden rounded mb-2">
+                        <img class="img-fluid" src="img/project-2.jpg" alt="">
+                        <a class="case-overlay text-decoration-none" href="">
+                            <small>Machine learning</small>
+                            <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore amet labore clita
+                            </h5>
+                            <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s">
+                    <div class="case-item position-relative overflow-hidden rounded mb-2">
+                        <img class="img-fluid" src="img/project-3.jpg" alt="">
+                        <a class="case-overlay text-decoration-none" href="">
+                            <small>Predictive Analysis</small>
+                            <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore amet labore clita
+                            </h5>
+                            <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Case End -->
 
 
     <!-- Service Start -->
@@ -213,35 +258,99 @@
         </div>
     </div>
     <!-- Service End -->
+    <div class="wrapper">
+        <div class="track">
+        <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/main_scrollimg_1.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+            <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/main_scrollimg_2.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+            <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/main_scrollimg_3.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+            <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/main_scrollimg_4.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+            <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/main_scrollimg_5.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+            <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/main_scrollimg_6.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+            <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/main_scrolling_7.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+            <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/main_scrollimg_8.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+            <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/main_scrollimg_1.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+           
+            <div class="logo">
+            <div class="border border-primary rounded position-relative vesitable-item">
+                        <div class="vesitable-img">
+                            <img src="img/vegetable-item-5.jpg" class="img-fluid w-100 rounded-top" alt="">
+                        </div>
+                      
+            </div>
+            </div>
+        </div>
+    </div>
+        <!-- Vesitable Shop End -->
 
-
-    <!-- Feature Start -->
-    <div class="container-fluid bg-primary feature pt-5">
-        <div class="container pt-5">
             <div class="row g-5">
                 <div class="col-lg-6 align-self-center mb-md-5 pb-md-5 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Why Choose Us</div>
-                    <h1 class="text-white mb-4">We're Best in AI Industry with 10 Years of Experience</h1>
-                    <p class="text-light mb-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed
-                        stet no labore lorem sit. Sanctus clita duo justo et tempor</p>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Diam dolor diam ipsum et tempor sit</span>
-                    </div>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Diam dolor diam ipsum et tempor sit</span>
-                    </div>
-                    <div class="d-flex align-items-center text-white mb-3">
-                        <div class="btn-sm-square bg-white text-primary rounded-circle me-3">
-                            <i class="fa fa-check"></i>
-                        </div>
-                        <span>Diam dolor diam ipsum et tempor sit</span>
-                    </div>
+                    
+                 
+                 
+                 
                     <div class="row g-4 pt-3">
                         <div class="col-sm-6">
                             <div class="d-flex rounded p-3" style="background: rgba(256, 256, 256, 0.1);">
@@ -263,371 +372,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6 align-self-end text-center text-md-end wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="img/feature.png" alt="">
-                </div>
+              
             </div>
         </div>
     </div>
     <!-- Feature End -->
 
 
-    <!-- Case Start -->
-    <div class="container-fluid bg-light py-5">
-        <div class="container py-5">
-            <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s" style="max-width: 500px;">
-                <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">Case Study</div>
-                <h1 class="mb-4">Explore Our Recent AI Case Studies</h1>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="case-item position-relative overflow-hidden rounded mb-2">
-                        <img class="img-fluid" src="img/project-1.jpg" alt="">
-                        <a class="case-overlay text-decoration-none" href="">
-                            <small>Robotic Automation</small>
-                            <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore amet labore clita
-                            </h5>
-                            <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="case-item position-relative overflow-hidden rounded mb-2">
-                        <img class="img-fluid" src="img/project-2.jpg" alt="">
-                        <a class="case-overlay text-decoration-none" href="">
-                            <small>Machine learning</small>
-                            <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore amet labore clita
-                            </h5>
-                            <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-4 wow fadeIn" data-wow-delay="0.7s">
-                    <div class="case-item position-relative overflow-hidden rounded mb-2">
-                        <img class="img-fluid" src="img/project-3.jpg" alt="">
-                        <a class="case-overlay text-decoration-none" href="">
-                            <small>Predictive Analysis</small>
-                            <h5 class="lh-base text-white mb-3">Lorem elitr magna stet eirmod labore amet labore clita
-                            </h5>
-                            <span class="btn btn-square btn-primary"><i class="fa fa-arrow-right"></i></span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Case End -->
-
-
-    <!-- FAQs Start -->
-    <div class="container-fluid py-5">
-        <div class="container py-5">
-            <div class="mx-auto text-center wow fadeIn" data-wow-delay="0.1s" style="max-width: 500px;">
-                <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">Popular FAQs</div>
-                <h1 class="mb-4">Frequently Asked Questions</h1>
-            </div>
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="accordion" id="accordionFAQ1">
-                        <div class="accordion-item wow fadeIn" data-wow-delay="0.1s">
-                            <h2 class="accordion-header" id="headingOne">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                    How to build a website?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
-                                data-bs-parent="#accordionFAQ1">
-                                <div class="accordion-body">
-                                    Dolor nonumy tempor elitr et rebum ipsum sit duo duo. Diam sed sed magna et magna diam aliquyam amet dolore ipsum erat duo. Sit rebum magna duo labore no diam.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item wow fadeIn" data-wow-delay="0.2s">
-                            <h2 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    How long will it take to get a new website?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                data-bs-parent="#accordionFAQ1">
-                                <div class="accordion-body">
-                                    Dolor nonumy tempor elitr et rebum ipsum sit duo duo. Diam sed sed magna et magna diam aliquyam amet dolore ipsum erat duo. Sit rebum magna duo labore no diam.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item wow fadeIn" data-wow-delay="0.3s">
-                            <h2 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Do you only create HTML websites?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#accordionFAQ1">
-                                <div class="accordion-body">
-                                    Dolor nonumy tempor elitr et rebum ipsum sit duo duo. Diam sed sed magna et magna diam aliquyam amet dolore ipsum erat duo. Sit rebum magna duo labore no diam.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item wow fadeIn" data-wow-delay="0.4s">
-                            <h2 class="accordion-header" id="headingFour">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                                    Will my website be mobile-friendly?
-                                </button>
-                            </h2>
-                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-                                data-bs-parent="#accordionFAQ1">
-                                <div class="accordion-body">
-                                    Dolor nonumy tempor elitr et rebum ipsum sit duo duo. Diam sed sed magna et magna diam aliquyam amet dolore ipsum erat duo. Sit rebum magna duo labore no diam.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="accordion" id="accordionFAQ2">
-                        <div class="accordion-item wow fadeIn" data-wow-delay="0.5s">
-                            <h2 class="accordion-header" id="headingFive">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    Will you maintain my site for me?
-                                </button>
-                            </h2>
-                            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                                data-bs-parent="#accordionFAQ2">
-                                <div class="accordion-body">
-                                    Dolor nonumy tempor elitr et rebum ipsum sit duo duo. Diam sed sed magna et magna diam aliquyam amet dolore ipsum erat duo. Sit rebum magna duo labore no diam.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item wow fadeIn" data-wow-delay="0.6s">
-                            <h2 class="accordion-header" id="headingSix">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                    I’m on a strict budget. Do you have any low cost options?
-                                </button>
-                            </h2>
-                            <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
-                                data-bs-parent="#accordionFAQ2">
-                                <div class="accordion-body">
-                                    Dolor nonumy tempor elitr et rebum ipsum sit duo duo. Diam sed sed magna et magna diam aliquyam amet dolore ipsum erat duo. Sit rebum magna duo labore no diam.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item wow fadeIn" data-wow-delay="0.7s">
-                            <h2 class="accordion-header" id="headingSeven">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                    Will you maintain my site for me?
-                                </button>
-                            </h2>
-                            <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
-                                data-bs-parent="#accordionFAQ2">
-                                <div class="accordion-body">
-                                    Dolor nonumy tempor elitr et rebum ipsum sit duo duo. Diam sed sed magna et magna diam aliquyam amet dolore ipsum erat duo. Sit rebum magna duo labore no diam.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item wow fadeIn" data-wow-delay="0.8s">
-                            <h2 class="accordion-header" id="headingEight">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-                                    I’m on a strict budget. Do you have any low cost options?
-                                </button>
-                            </h2>
-                            <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
-                                data-bs-parent="#accordionFAQ2">
-                                <div class="accordion-body">
-                                    Dolor nonumy tempor elitr et rebum ipsum sit duo duo. Diam sed sed magna et magna diam aliquyam amet dolore ipsum erat duo. Sit rebum magna duo labore no diam.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- FAQs Start -->
-
-
-    <!-- Team Start -->
-    <div class="container-fluid bg-light py-5">
-        <div class="container py-5">
-            <div class="row g-5 align-items-center">
-                <div class="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">Our Team</div>
-                    <h1 class="mb-4">Meet Our Experienced Team Members</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
-                        amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus
-                        clita duo justo et tempor eirmod magna dolore erat amet</p>
-                    <a class="btn btn-primary rounded-pill px-4" href="">Read More</a>
-                </div>
-                <div class="col-lg-7">
-                    <div class="row g-4">
-                        <div class="col-md-6">
-                            <div class="row g-4">
-                                <div class="col-12 wow fadeIn" data-wow-delay="0.1s">
-                                    <div class="team-item bg-white text-center rounded p-4 pt-0">
-                                        <img class="img-fluid rounded-circle p-4" src="img/team-1.jpg" alt="">
-                                        <h5 class="mb-0">Boris Johnson</h5>
-                                        <small>Founder & CEO</small>
-                                        <div class="d-flex justify-content-center mt-3">
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-facebook-f"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-twitter"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-instagram"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-linkedin-in"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12 wow fadeIn" data-wow-delay="0.5s">
-                                    <div class="team-item bg-white text-center rounded p-4 pt-0">
-                                        <img class="img-fluid rounded-circle p-4" src="img/team-2.jpg" alt="">
-                                        <h5 class="mb-0">Adam Crew</h5>
-                                        <small>Executive Manager</small>
-                                        <div class="d-flex justify-content-center mt-3">
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-facebook-f"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-twitter"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-instagram"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-linkedin-in"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 pt-md-4">
-                            <div class="row g-4">
-                                <div class="col-12 wow fadeIn" data-wow-delay="0.3s">
-                                    <div class="team-item bg-white text-center rounded p-4 pt-0">
-                                        <img class="img-fluid rounded-circle p-4" src="img/team-3.jpg" alt="">
-                                        <h5 class="mb-0">Kate Winslet</h5>
-                                        <small>Co Founder</small>
-                                        <div class="d-flex justify-content-center mt-3">
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-facebook-f"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-twitter"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-instagram"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-linkedin-in"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12 wow fadeIn" data-wow-delay="0.7s">
-                                    <div class="team-item bg-white text-center rounded p-4 pt-0">
-                                        <img class="img-fluid rounded-circle p-4" src="img/team-4.jpg" alt="">
-                                        <h5 class="mb-0">Cody Gardner</h5>
-                                        <small>Project Manager</small>
-                                        <div class="d-flex justify-content-center mt-3">
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-facebook-f"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-twitter"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-instagram"></i></a>
-                                            <a class="btn btn-square btn-primary m-1" href=""><i
-                                                    class="fab fa-linkedin-in"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-
-
-    <!-- Testimonial Start -->
-    <div class="container-xxl py-5">
-        <div class="container py-5">
-            <div class="row g-5">
-                <div class="col-lg-5 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="btn btn-sm border rounded-pill text-primary px-3 mb-3">Testimonial</div>
-                    <h1 class="mb-4">What Say Our Clients!</h1>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
-                        amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus
-                        clita duo justo et tempor eirmod magna dolore erat amet</p>
-                    <a class="btn btn-primary rounded-pill px-4" href="">Read More</a>
-                </div>
-                <div class="col-lg-7 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="owl-carousel testimonial-carousel border-start border-primary">
-                        <div class="testimonial-item ps-5">
-                            <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                            <p class="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg"
-                                    style="width: 60px; height: 60px;">
-                                <div class="ps-3">
-                                    <h5 class="mb-1">Client Name</h5>
-                                    <span>Profession</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testimonial-item ps-5">
-                            <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                            <p class="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg"
-                                    style="width: 60px; height: 60px;">
-                                <div class="ps-3">
-                                    <h5 class="mb-1">Client Name</h5>
-                                    <span>Profession</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testimonial-item ps-5">
-                            <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                            <p class="fs-4">Aliqu diam amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor eirmod magna dolore erat amet</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg"
-                                    style="width: 60px; height: 60px;">
-                                <div class="ps-3">
-                                    <h5 class="mb-1">Client Name</h5>
-                                    <span>Profession</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonial End -->
-
-
-    <!-- Newsletter Start -->
-    <div class="container-fluid bg-primary newsletter py-5">
-        <div class="container">
-            <div class="row g-5 align-items-center">
-                <div class="col-md-5 ps-lg-0 pt-5 pt-md-0 text-start wow fadeIn" data-wow-delay="0.3s">
-                    <img class="img-fluid" src="img/newsletter.png" alt="">
-                </div>
-                <div class="col-md-7 py-5 newsletter-text wow fadeIn" data-wow-delay="0.5s">
-                    <div class="btn btn-sm border rounded-pill text-white px-3 mb-3">Newsletter</div>
-                    <h1 class="text-white mb-4">Let's subscribe the newsletter</h1>
-                    <div class="position-relative w-100 mt-3 mb-2">
-                        <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text"
-                            placeholder="Enter Your Email" style="height: 48px;">
-                        <button type="button" class="btn shadow-none position-absolute top-0 end-0 mt-1 me-2"><i
-                                class="fa fa-paper-plane text-primary fs-4"></i></button>
-                    </div>
-                    <small class="text-white-50">Diam sed sed dolor stet amet eirmod</small>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Newsletter End -->
+   
