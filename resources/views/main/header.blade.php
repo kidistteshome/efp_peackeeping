@@ -15,13 +15,22 @@
                         <a href="service.html" class="nav-item nav-link">Services</a>
                         <a href="project.html" class="nav-item nav-link">Projects</a>
                         <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Media</a>
                             <div class="dropdown-menu bg-light mt-2">
-                                <a href="feature.html" class="dropdown-item">Features</a>
-                                <a href="team.html" class="dropdown-item">Our Team</a>
-                                <a href="faq.html" class="dropdown-item">FAQs</a>
-                                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                <a href="404.html" class="dropdown-item">404 Page</a>
+                                <a href="feature.html" class="dropdown-item">Gallary</a>
+                                <a href="team.html" class="dropdown-item">Documents</a>
+                                <a href="faq.html" class="dropdown-item">News</a>
+                             
+                            
+                            </div>
+                            <div class="nav-item dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Upload Files</a>
+                            <div class="dropdown-menu bg-light mt-2">
+                                <a href="feature.html" class="dropdown-item">Gallary</a>
+                                <a href="{{route('document.upload')}}" class="dropdown-item">Documents</a>
+                                <a href="faq.html" class="dropdown-item">News</a>
+                             
+                            
                             </div>
                         </div>
                         <a href="contact.html" class="nav-item nav-link">Contact</a>
