@@ -5,40 +5,42 @@
             <div class="row g-5">
                 <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.1s">
                     <a href="index.html" class="d-inline-block mb-3">
-                        <h1 class="text-white">AI<span class="text-primary">.</span>Tech</h1>
+                        <h1 class="text-white">UN<span class="text-primary">.</span>Ethiopia</h1>
                     </a>
-                    <p class="mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum et tempor sit. Aliqu diam
-                        amet diam et eos labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus
-                        clita duo justo et tempor</p>
+                    <p class="mb-0">The Sustainable Development Goals are a call for action by all countries
+                         – poor, rich and middle-income – to promote prosperity while protecting the planet. 
+                        </p>
                 </div>
                 <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.3s">
                     <h5 class="text-white mb-4">Get In Touch</h5>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>ሜክሲኮ አደባባይ ፣ አዲስ አበባ ፣ ኢትዮጵያ</p>
+                    <p><i class="fa fa-phone-alt me-3"></i>+251 118 886 228</p>
+                    <p><i class="fa fa-envelope me-3"></i>ethiopiafederalpolice@gmail.com</p>
                     <div class="d-flex pt-2">
-                        <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-instagram"></i></a>
-                        <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                   
+                        <a class="btn btn-outline-primary btn-square me-3" href="https://www.facebook.com/Ethiopianpolicenews"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-primary btn-square me-3" href="https://twitter.com/EthiopiaPolice"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-outline-primary btn-square me-3" href="https://t.me/efp2014"><i class="fab fa-telegram"></i></a>
+                        <a class="btn btn-outline-primary btn-square" href="https://www.youtube.com/c/ethiopianfederalpolice"><i class="fab fa-youtube"></i></a>
+                 
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.5s">
                     <h5 class="text-white mb-4">Popular Link</h5>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Privacy Policy</a>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Career</a>
-                </div>
+                    <a class="btn btn-link"href="http://www.federalpolice.gov.et/am/federal/police/document/bid">cherta</a>
+                    <a class="btn btn-link" href="http://www.federalpolice.gov.et/am/federal/police/events">kestet</a>
+                    <a class="btn btn-link" href="http://www.federalpolice.gov.et/am/federal/police/document/magazines">magazines</a>
+                    <a class="btn btn-link" href="http://www.federalpolice.gov.et/am/federal/police/document/press/release">news</a>
+                    <a class="btn btn-link" href="http://www.federalpolice.gov.et/am/federal/police/document/vacancy">Career</a>
+         </div>
                 <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
                     <h5 class="text-white mb-4">Our Services</h5>
-                    <a class="btn btn-link" href="">Robotic Automation</a>
-                    <a class="btn btn-link" href="">Machine learning</a>
-                    <a class="btn btn-link" href="">Predictive Analysis</a>
-                    <a class="btn btn-link" href="">Data Science</a>
-                    <a class="btn btn-link" href="">Robot Technology</a>
+                    <a class="btn btn-link" href="">Administrative Tasks</a>
+                    <a class="btn btn-link" href="">Crime Investigation</a>
+                    <a class="btn btn-link" href="">Crime Prevention</a>
+                    <a class="btn btn-link" href="">Logistics</a>
+                    <a class="btn btn-link" href="">Education and capacity building</a>
+                    <a class="btn btn-link" href="">Health Service</a>
                 </div>
             </div>
         </div>

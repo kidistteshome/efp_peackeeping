@@ -336,13 +336,13 @@ h6,
 .case-item:hover img {
     transform: scale(1.2);
 }
-.case-item iframe {
+/* .case-item iframe {
     transition: .5s;
 }
   
 .case-item:hover iframe {
     transform: scale(1.2);
-}
+} */
   
 .case-overlay {
     position: absolute;
@@ -858,4 +858,125 @@ color:black;
 .text-muted{
 
 }
+.containernew{
+    width: 400px;
+    height: 220px;
+    position: relative;
+  }
+      
+  .new-text {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+    position: absolute;
+    top: 50%; /* Adjust to align vertically */
+    left: 50%; /* Adjust to align horizontally */
+    transform: translate(-50%, -50%); /* Center the text */
+}  
+  section h1, h2{
+    font-size: 75px;
+    text-transform: uppercase;
 
+    span {
+        width: 100%;
+        float: left;
+        color:  #F4F7FE;
+        -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
+        clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
+        transform: translateY(-50px);
+        opacity: 0;
+        animation-name: titleAnimation;
+        animation-timing-function: ease;
+        animation-duration: 3s;
+    }
+    
+  
+  }
+  section h1 span{
+    animation-delay: 0.6s;
+    -webkit-animation-fill-mode: forwards;
+  
+    &:first-child{
+      animation-delay: 0.7s;
+  
+    }
+  
+    &:last-child{
+      color: #F4F7FE;
+      animation-delay: 0.5s;
+    }
+    
+  }
+  
+  section h2{ 
+    top: 0;
+    position: absolute;
+    
+    span{
+      animation-delay: 4.1s;
+      -webkit-animation-fill-mode: forwards;
+  
+      &:first-child{
+        animation-delay: 4.2s;
+  
+      }
+  
+      &:last-child{
+        color: #F4F7FE;
+        animation-delay: 4s;
+      }
+    }
+  }
+  
+  .usechrome{
+    font-size: 10px;
+    color: #fff;
+    font-family: helvetica, arial;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    left: 0;
+  }
+  
+  @keyframes titleAnimation {
+      0% {
+        transform: translateY(-50px);
+        opacity: 0;
+        -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
+        clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 80%);
+    }
+    20% {
+        transform: translateY(0);
+        opacity: 1;
+        -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 15%);
+        clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 15%);
+    }
+    80% {
+         transform: translateY(0);
+         opacity: 1;
+        -webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 15%);
+        clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 15%);
+    }
+    100% {
+         transform: translateY(50px);
+         opacity: 0;
+        -webkit-clip-path: polygon(100% 0, 100% -0%, 0 100%, 0 100%);
+        clip-path: polygon(100% 0, 100% -0%, 0 100%, 0 100%);
+      
+    }
+  }
+
+  .middle .text{
+    white-space: nowrap; 
+    width: 300px; 
+    height: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    border: none;
+    display: inline-block;
+  }
